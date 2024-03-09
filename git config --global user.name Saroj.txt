@@ -1,0 +1,11 @@
+git config --global user.name "Saroj Malik"
+
+
+git config --global user.email "Sarojmalik92@gmail.com"
+
+
+git config --global --edit
+
+
+mkdir learn08-03-24
+cd learn08-03-24

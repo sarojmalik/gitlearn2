@@ -1,0 +1,4 @@
+24% for "Cloud Concepts" (with increased focus on the AWS Cloud Adoption Framework), 
+30% for "Security and Compliance," 
+34% for "Cloud Technology and Services," 
+12% for "Billing, Pricing, and Support" (now including support as well).
